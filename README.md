@@ -36,7 +36,8 @@
 <br/> 
 
 
-<br />
+<br /> 
+
 ### Connect with me:
 
 [<img align="left" alt="arnabdey0503 | gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
