@@ -1,12 +1,15 @@
 ![Octocat](ezgif.com-reverse.gif)
 <h1 align="center">Hi 👋, I'm Sumeyra DURAN</h1>           
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinefernandes&label=Profile%20views&color=0e75b6&style=flat" alt="valentinefernandes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinefernandes&label=Profile%20views&color=0e75b6&style=flat" alt="valentinefernandes" /> </p>  
 
-### Skills and Experience
-* ⚛  Selenium, Cucumber, 
-* 📱 Appium
-* 💻 Java, HTML, CSS, JS, C++, 
+- 🌱 I’m currently learning **Appium ,MongoDB**  
+
+- 💬 Ask me about **Core Java , Selenium , Cucumber , HTML , CSS , SQL**      
+
+- ⚡ Fun fact **I enjoy sketching and painting.**   
+ 
+
 
 
 <!--
@@ -22,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<h3 align="left">Connect with me:</h3>
 -->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/smyrduran3535)  
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@smyrduran3535) 
