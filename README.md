@@ -34,8 +34,9 @@
  ![Sumeyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=smyrduran3535&show_icons=true&theme=react)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smyrduran3535&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/> 
-<!--
+
 **smyrduran3535/smyrduran3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 ### Connect with me:
 
 [<img align="left" alt="arnabdey0503 | gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -51,9 +52,4 @@
 [linkedin]: https://www.linkedin.com/in/sumeyra-duran/
 [github]:  https://github.com/smyrduran3535
 
--->
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/smyrduran3535)  
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@smyrduran3535) 
-[![Linkedln Badge](https://img.shields.io/badge/-Linkedln-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.linkedin.com/in/sumeyra-duran)
-[![gmail Badge](https://img.shields.io/badge/-gmail-TT9850?style=flat-quare&labelColor=TT9800&logo=Blogger&logoColor=white&link=link)](mailto:smyrduran3535@gmail.com)
 
