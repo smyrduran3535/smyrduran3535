@@ -2,6 +2,10 @@
 Hi there 👋
 
 ### 🔧 Languages and Tools:
+## Skills and Experience
+* ⚛  Selenium, Cucumber, 
+* 📱 React Native
+* 💻 Java, HTML, CSS, JS, C++, 
 
 
 <!--
