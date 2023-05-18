@@ -1,8 +1,7 @@
 ![Octocat](ezgif.com-reverse.gif)
 Hi there 👋
 
-### 🔧 Languages and Tools:
-## Skills and Experience
+### Skills and Experience
 * ⚛  Selenium, Cucumber, 
 * 📱 Appium
 * 💻 Java, HTML, CSS, JS, C++, 
