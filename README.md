@@ -4,7 +4,7 @@ Hi there 👋
 ### 🔧 Languages and Tools:
 ## Skills and Experience
 * ⚛  Selenium, Cucumber, 
-* 📱 React Native
+* 📱 Appium
 * 💻 Java, HTML, CSS, JS, C++, 
 
 
