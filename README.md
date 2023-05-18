@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/smyrduran3535)  
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@smyrduran3535) 
 [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.linkedin.com/in/sumeyra-duran)
-[![gmail Badge](https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg-gmail-TT9850?style=flat-quare&labelColor=TT9800&logo=Blogger&logoColor=white&link=link)](mailto:smyrduran3535@gmail.com)
+[![gmail Badge](https://img.shields.io/badge/-gmail-TT9850?style=flat-quare&labelColor=TT9800&logo=Blogger&logoColor=white&link=link)](mailto:smyrduran3535@gmail.com)
 
