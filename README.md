@@ -1,4 +1,4 @@
-![Octocat](https:/octodex.github.com/images/yaktocat.png)
+![Octocat](ezgif.com-reverse.gif)
 Hi there 👋
 
 <!--
