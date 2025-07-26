@@ -1,4 +1,5 @@
 ![Octocat](ezgif.com-reverse.gif)
+ # aurafarming
 <h1 align="center">Hi 👋, I'm Sumeyra DURAN</h1>           
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smyrduran3535&label=Profile%20views&color=0e75b6&style=flat" alt="smyrduran3535" /> </p>  
@@ -52,7 +53,7 @@
 [medium]: https://medium.com/@smyrduran3535/
 [linkedin]: https://www.linkedin.com/in/sumeyra-duran/
 [github]:  https://github.com/smyrduran3535
- # aurafarming
+
 import cv2
 import numpy as np
 from PIL import Image, ImageEnhance, ImageFilter
