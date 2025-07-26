@@ -1,6 +1,5 @@
 ![Octocat](ezgif.com-reverse.gif)
 # aurafarming
-pip install -r requirements.txt
 import cv2
 import numpy as np
 from PIL import Image, ImageEnhance, ImageFilter
